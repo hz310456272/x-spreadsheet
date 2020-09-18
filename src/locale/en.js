@@ -43,6 +43,7 @@ export default {
     cellnonprintable: 'Disable export',
     celleditable: 'Enable editing',
     cellnoneditable: 'Disable editing',
+    selectDataConfiguration: 'Add Data Configuration',
   },
   print: {
     size: 'Paper size',

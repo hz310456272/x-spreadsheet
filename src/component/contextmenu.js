@@ -25,6 +25,7 @@ const menuItems = [
   { key: 'divider' },
   { key: 'cell-editable', title: tf('contextmenu.celleditable') },
   { key: 'cell-non-editable', title: tf('contextmenu.cellnoneditable') },
+  { key: 'select-data-configuration', title: tf('contextmenu.selectDataConfiguration') },
 ];
 
 function buildMenuItem(item) {

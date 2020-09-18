@@ -43,6 +43,7 @@ export default {
     cellnonprintable: '不可打印',
     celleditable: '可编辑',
     cellnoneditable: '不可编辑',
+    selectDataConfiguration: '添加数据配置',
   },
   print: {
     size: '纸张大小',
